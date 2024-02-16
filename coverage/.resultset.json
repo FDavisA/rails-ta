@@ -7,6 +7,18 @@
           null
         ]
       },
+      "/Users/davis/rails-ta/app/helpers/details_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/davis/rails-ta/app/helpers/people_helper.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
       "/Users/davis/rails-ta/app/models/detail.rb": {
         "lines": [
           1,
@@ -30,6 +42,115 @@
           null
         ]
       },
+      "/Users/davis/rails-ta/app/controllers/details_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/davis/rails-ta/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/davis/rails-ta/app/controllers/people_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          0,
+          null,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
       "/Users/davis/rails-ta/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -44,14 +165,6 @@
         "lines": [
           0,
           0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/davis/rails-ta/app/controllers/application_controller.rb": {
-        "lines": [
           0,
           0
         ],
@@ -82,6 +195,6 @@
         }
       }
     },
-    "timestamp": 1708109480
+    "timestamp": 1708113733
   }
 }
