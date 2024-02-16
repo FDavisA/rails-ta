@@ -1,4 +1,4 @@
 class Person < ApplicationRecord
-  has_many :details, dependent: :destroy
+  has_one :details, dependent: :destroy
   validates :name, presence: true
 end
